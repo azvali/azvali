@@ -44,13 +44,3 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
 </p>
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=azvali&theme=dark&hide_border=false" alt="GitHub streak stats">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azvali&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages">
-</p>
