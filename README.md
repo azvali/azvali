@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://gpvc.arturio.dev/azvali" alt="profile views">
+  <img src="https://komarev.com/ghpvc/?username=azvali&style=flat-square" alt="profile views">
 </div>
 
 # 👋 Hello, I'm Yousef Mardrosyan
 
 ### 👨‍💻 About Me:
 - 🎓 I'm a recent Computer Science graduate from **Oakland University**.
-- 🌱 I'm passionate about full-stack development, with experience building applications using React, C# with ASP.NET Core, and Python with Flask.
-- 🔭 I have experience as a Software Engineering Intern at the **Department of Homeland Security** and as a Research Assistant where I contributed to PyTorch and TensorFlow.
+- 💻 I'm passionate about full-stack development, with experience building applications using React, C# with ASP.NET Core, and Python with Flask.
+- 🔭 I've worked as a Software Engineering Intern at the **Department of Homeland Security**.
+- 🔬 As a Research Assistant, I assisted PhD students and Professor Jingshu Chen with their research.
 - 📫 How to reach me: [yousefm2787@gmail.com](mailto:yousefm2787@gmail.com)
-- ⚡ Fun fact: I am a U.S. Citizen and eligible for DoD Secret Clearance.
 
 ---
 
@@ -29,7 +29,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -50,9 +49,8 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azvali&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azvali&theme=dark&hide_border=false" alt="GitHub streak stats">
+  <img src="https://streak-stats.demolab.com/?user=azvali&theme=dark&hide_border=false" alt="GitHub streak stats">
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azvali&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages">
 </p>
