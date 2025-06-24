@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=azvali&style=flat-square" alt="profile views">
-</div>
-
 # 👋 Hello, I'm Yousef Mardrosyan
 
 ### 👨‍💻 About Me:
